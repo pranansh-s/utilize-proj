@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.select-icon > svg {
+  stroke: white;
+}
+
+html {
+  font-family: "Verdana" sans-serif;
+  font-size: 16px;
+}
